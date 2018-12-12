@@ -1,0 +1,7 @@
+C:\Users\jz159156\Desktop\C#\Chapter 6\CheckZips\CheckZips\bin\Debug\CheckZips.exe.config
+C:\Users\jz159156\Desktop\C#\Chapter 6\CheckZips\CheckZips\bin\Debug\CheckZips.exe
+C:\Users\jz159156\Desktop\C#\Chapter 6\CheckZips\CheckZips\bin\Debug\CheckZips.pdb
+C:\Users\jz159156\Desktop\C#\Chapter 6\CheckZips\CheckZips\obj\Debug\CheckZips.csprojAssemblyReference.cache
+C:\Users\jz159156\Desktop\C#\Chapter 6\CheckZips\CheckZips\obj\Debug\CheckZips.csproj.CoreCompileInputs.cache
+C:\Users\jz159156\Desktop\C#\Chapter 6\CheckZips\CheckZips\obj\Debug\CheckZips.exe
+C:\Users\jz159156\Desktop\C#\Chapter 6\CheckZips\CheckZips\obj\Debug\CheckZips.pdb
